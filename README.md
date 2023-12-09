@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Snehel Basu
 - 👀 I’m interested in AIMl and web dev
 - 🌱 I’m currently learning Machine learning, Data science 
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I’m looking to collaborate on ML projects and to get into open source
 - 📫 How to reach me: dont
 
 <!---
