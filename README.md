@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snehel Basu
-- 👀 I’m interested in AI/Ml
+- 👀 I’m interested in AI/ML
 - 🌱 Currently improving my skills in deep learning, Data science
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: basusnehel789@gmail.com
